@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration or, remonstrance of the office of a Prince, and his counsellors. Also, the dutie and obligement of the people, and subiects; collected and extracted forth of the most divine and politique authors, that have treated of the same subject. Newly sent from Yorke, by a Gentleman now residing there, to intimate loyalty to his Majesty, and love to his countrey; with an humble desire for a true understanding betweene our King and his people. Whereunto is annexed the Kings Majesties five last propositions to the Parliament; with their determinate answer by way of resolution in three distinct votes.</title>
+            <author>Gentleman now residing there.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82248</idno>
+            <idno type="STC">Wing D781</idno>
+            <idno type="STC">Thomason E108_38</idno>
+            <idno type="STC">ESTC R18970</idno>
+            <idno type="EEBO-CITATION">99860519</idno>
+            <idno type="PROQUEST">99860519</idno>
+            <idno type="VID">112641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112641)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration or, remonstrance of the office of a Prince, and his counsellors. Also, the dutie and obligement of the people, and subiects; collected and extracted forth of the most divine and politique authors, that have treated of the same subject. Newly sent from Yorke, by a Gentleman now residing there, to intimate loyalty to his Majesty, and love to his countrey; with an humble desire for a true understanding betweene our King and his people. Whereunto is annexed the Kings Majesties five last propositions to the Parliament; with their determinate answer by way of resolution in three distinct votes.</title>
+                  <author>Gentleman now residing there.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hammond, and Math: Rhodes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 8.</note>
+                  <note>Annotation on Thomason copy: "August .3rd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112641:1" rendition="simple:additions"/>
+            <p>A DECLARATION OR, REMONSTRANCE OF The Office of a PRINCE, and his COVNSELLORS.</p>
+            <p>ALSO, The Dutie and Obligement of the People, and Subiects; collected and extracted forth of the moſt <hi>Divine</hi> and Politique AVTHORS, that have treated of the ſame SVBIECT.</p>
+            <p>NEWLY Sent from <hi>Yorke,</hi> by a Gentleman now reſiding there, to intimate a Loyalty to his <hi>Majeſty,</hi> and love to his <hi>Countrey;</hi> with an humble deſire for a true underſtanding be<g ref="char:EOLhyphen"/>tweene our <hi>King</hi> and his <hi>People.</hi>
+            </p>
+            <p>Whereunto Is annexed the Kings <hi>Majeſties</hi> five laſt <hi>Propoſitions</hi> to the <hi>Parliament;</hi> with their determinate <hi>Anſwer</hi> by way of <hi>Reſolution</hi> in three diſtinct VOTES.</p>
+            <p>
+               <add>August 3<hi rend="sup">d</hi>
+               </add> LONDON, Printed by <hi>Iohn Hammond,</hi> and <hi>Math: Rhodes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_a_princes_duties">
+            <pb facs="tcp:112641:2"/>
+            <pb n="1" facs="tcp:112641:2"/>
+            <head>A Declaration or Remonſtrance of the office of a Prince and His Councellours.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Councell of a Prince, is a certaine congregating or meeting together of ſe<g ref="char:EOLhyphen"/>lect men, to adviſe the <hi>Prince</hi> in the time of <hi>Warre</hi> or <hi>Peace.</hi> Whoſe Office is to be mindfull of time paſt to looke to the preſent and to foreſee thoſe to come, the ſucceſſe of their Conſultations are happy ſhunning inconveniences or at laſt they finde ſome meanes to extenuate them.</p>
+            <p>A Counſell (their reſpect to the Prince preſerved) do by courſe play the part almoſt of all his ſences as his underſtand<g ref="char:EOLhyphen"/>ing, memory, eyes, eares, ſpeech, hands, and feete. But to the People they are a Father, Tutor, and Governor; If a Prince and Councell be Vnanimous they are God Vicegerents on earth, from hence by the conſtitution of good Counſell the Prince receives his eſſence the Councellors their due honours
+<pb n="2" facs="tcp:112641:3"/>the People their Protection vnder good Lawes giving honour both to Prince and Councellours as to the true Miniſters of GOD cald lawfully to governe them, But on the contrary by bad Councell, or by miſunderſtandings or diſſentions between the Prince and Councell, the Prince honers not onely hourely blemiſht and his eſtate and dignity in dainger of ſubvertion but the People alſo to be deſtroyed and Country to be layd waſt by a forraigne Invaſion, or by Civell Diſſention to be vtterly ruined.</p>
+            <p>Theſe things are of that weight that I do not thinke any thing in this life can be found of greater moment, and there<g ref="char:EOLhyphen"/>fore in my Iudgment, it is not the leaſt duty of a Prince to be diligent in finding, circumſpect in electing, and cautions in conſtituting and authorizing ſo needfull a part of himſelf as is a Councell, leaſt chooſing ſuch as are more fraught with honours then wiſdome, or thoſe that are rich in the goods of Fortune, wanting the richer endowments of the minde, the one ſhould prove co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etous to add wealth to his honours, and the other ambitious to adde honour to his riches, and ſo whilſt either perpetrate their owne Deſignes, neglecting the chiefe end for which they were choſen, the whole Common<g ref="char:EOLhyphen"/>wealth fall into a moſt dangerous hazzard, till at laſt finding their owne errors, and being unwilling to publiſh their owne frailties to the worlds publique knowledge, they are enforced to inngulfe themſelves in the iuſtification of moſt dangerous falſhoods, and ſtill in what they may to lay the whole burthen on the innocent Prince, or at leaſt on ſome pretended Coun<g ref="char:EOLhyphen"/>cellors about him, ſtill urging and pretending new doubts and feares, thoſe iealouſies being firmly grounded on a malignant Partie, which indeed is to bee found (and that nor ſeldome) amongſt themſelves.</p>
+            <p>Many Councellors when by their own ambitions and malig<g ref="char:EOLhyphen"/>nant
+<pb n="3" facs="tcp:112641:3"/>practizes they finde the State diſturbed and out of order, and things not to ſucceed according to their deſires, they uſu<g ref="char:EOLhyphen"/>ally command their <hi>Bid-dayes</hi> to be kept, and the People to faſt for the Sinnes of the Councell, alleadging to them, that God Almighty for Sin doth puniſh the Nation; and in this (indeed) I verily believe they ſpeake the perfect truth; for Envy or Ambition, Miſtruſt or diſagrements in or betweene a Councell and their Prince and ſuch Sinnes as bring not only to themſelves, but even to the whole Common-wealth ruine and calamity; in conſideration whereof, I would adviſe the Councell to aske nothing of their Prince but what is ſit for him to grant, and the Prince to deny them nothing that is ſit for them to aske; for it is the duty both of Prince and Coun<g ref="char:EOLhyphen"/>cellors ſo to be have themſelves towards the Common-wealth, that the Iuſtice of the Law may not onely be equally diſtribu<g ref="char:EOLhyphen"/>ted, and the poore defended from the oppreſſion of the rich; but alſo that <hi>peace</hi> may be maintained with forraigne Princes, and publique Commerce increaſed, to the profit of the Sub<g ref="char:EOLhyphen"/>iect, and honour of the Kingdome.</p>
+            <p>It is the duty of the Councell, who are the Members of the Body Politique, in all humility and obedience, to advize and treat with their Prince the head of that Body; for as in a Body naturall it would appeare altogether prepoſterous to ſee the feet to ſpurne at the Head, or the hands ready to ſtrike at it; ſo it is a thing altogether as uncomely, and of farre more dan<g ref="char:EOLhyphen"/>gerous conſquence, to have any Member or Members of the Body Politique to preſume to rebell againſt their Head the Prince.</p>
+            <p>A Prince ought to looke on his great Councell as on the repreſentative Body of the <hi>Kingdome,</hi> being lawfully cal'd together and elected by the People generall Suffrages: But
+<pb n="4" facs="tcp:112641:4"/>that Councell ought to looke on their Princes as on the repre<g ref="char:EOLhyphen"/>ſentative ſoule of the whole <hi>Common-wealth</hi> elected and autho<g ref="char:EOLhyphen"/>rized by the power or <hi>God</hi> himſelfe, his Government being eſtabliſhed by his <hi>lineal Succeſſion,</hi> and confirmed by the <hi>Lawes</hi> of the Land being inveſted and received with the generall ap<g ref="char:EOLhyphen"/>plauſe of all his Subiects. Should a Prince after his election and confirmation prove wicked in all thoſe horrid degrees, Mens imaginations are able to apprehend yet ought not his People or Councell to preſume to goe about to enforce him to ought otherwiſe then by humble intreaty and advice.</p>
+            <p>
+               <hi>David</hi> though anoynted by the Prophet <hi>Samuel</hi> durſt not preſume to lift his hand againſt the firſt anoynted <hi>Saul: Saint Paul</hi> commands Chriſtians to obey thoſe Heathen Princes to whom they were naturally borne Subiects, ſhewing obedi<g ref="char:EOLhyphen"/>ence to be due from Subiects to their Princes as from Princes to God.</p>
+            <p>Kings are Gods earthly Deputies and no man can rebell againſt the one but hee is doubtleſſe a Traytor to both; Kings ought (as God) to bee intreated not compelled; If a Prince be miſlead by bad Councellors or by the advice of malconten<g ref="char:EOLhyphen"/>ted <hi>perſons</hi> yet it were much better for the good of the <hi>Common</hi>-wealth, to cover and palliate the Princes errors or neglects then to diſcouer or declare them to the knowledge of his Subiects for the Maieſty of a Prince can hardly endure thoſe opprobrious indignityes as may in any likly hood render him odious to his people.</p>
+            <p>Councellors being ſummoned and elected by the Power and authority of the Prince only may at his pleaſure by the ſame Prerogative be diſcharged and diſperſed nor is it in the power of the Prince to part with (eſpecially for a time unli<g ref="char:EOLhyphen"/>mited) any part or title of his Prerogative Royall, As for a
+<pb n="5" facs="tcp:112641:4"/>preſident. The ſecond <hi>Richard</hi> King of <hi>England</hi> parting with his Prerogative Royall as in farme to <hi>Buſhy Baggot</hi> and <hi>Gree<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> were adiudged to be executed as Traitors.</p>
+            <p>The <hi>Parliament</hi> then adiuding it not to be in the power of the King to diſinveſt his Succeſſors of any part of his or their due Prerogative, the diſſention that was between this King and his <hi>Parliaments,</hi> and miſerable Events and bloody maſſacres that ſucceded them, and his Depoſing might me thinks deter all Chriſtian Princes and Councellors from the like occaſions thereby to eſchew the like effects. As for De<g ref="char:EOLhyphen"/>poſers of Princes and Vſurpers, I think there is no man doubts but they may have an equall ſhare of Damnation be their pre<g ref="char:EOLhyphen"/>tences never ſo faire.</p>
+            <p>Religion and a care of the publique good, are two eaſie ſtepps to popularity, and the beſt and ſafeſt cloakes to hide black, treacherous and miſchievous intents. I hope the conſi<g ref="char:EOLhyphen"/>deration of what hath already paſt in <hi>England,</hi> and the pre<g ref="char:EOLhyphen"/>ſent miſeries of <hi>Germany</hi> with the knowledge of
+<q xml:lang="lat">Tunc tua res agitur paries cum proximus ardens.</q> will make every true Engliſhman ſo wiſe, as reflecting on the miſeries paſt not to be our haſty to become engaged in new mischiefes leaſt the loſſe ſhould prove inſupportable or the wounds incurable. And for my part, for the proſperity and ſafety of this <hi>Kingdome</hi> I ſhall every pray to God to continue the People in their due obedience, the Councellours and Nobility in conſtant Loyalty and his Sacred Maieſty in love and amity with his Peeres and People.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="lists_of_royal_propositions_and_Parliamentary_resolutions">
+            <pb n="8" facs="tcp:112641:5"/>
+            <head>A true Copie of the Kings Maieſties five laſt Propoſitions to the Parliament: with their determinate Anſwer, by way of Reſolution, in three diſticnt <hi>VOTES.</hi>
+            </head>
+            <list>
+               <head>His Majeſties Propoſitions were theſe following; <hi>viz.</hi>
+               </head>
+               <item>FIrſt, That they would recall the Ordinance made by the conſent of both <hi>Houſes</hi> of <hi>Parliament</hi> concerning the <hi>Militia,</hi> whereby his Majeſtie hath beene enforced to make theſe his Preparations.</item>
+               <item>Secondly, That they would deliver up his Majeſties Magazine taken from <hi>Hull,</hi> be forthwith put into hands in which His Majeſtie may confide.</item>
+               <item>Thirdly that His Navy be forthwith ſurrended by the Earle of <hi>Warwick</hi> to Sir <hi>John Pennington.</hi>
+               </item>
+               <item>Fourthly, That all Armes, Leavies, and Proviſions for VVarre, made by the conſent of both Houſes be immediatly layd downe.</item>
+               <item>Fiftly, That the Parliament might be adjourned to ſome place where His Majeſtie might with ſecurity come neere them, and joyne with them in their conſultations.</item>
+            </list>
+            <list>
+               <head>The <hi>Parliaments</hi> Reſolutions in three <hi>Votes;</hi> viz.</head>
+               <item>FIrſt, That an Army ſhould be forthwith raiſed for the ſafety of the Kings Perſon, defence of both Houſes of Parliament, and of thoſe that have obeyed their Orders and Cammands, and preſerving of the Religion, the Law Libertie, and Peace of the Kingdom.</item>
+               <item>Secondly, That the Earle of <hi>Eſſex</hi> ſhall be Generall.</item>
+               <item>Thirdly, That in this Cauſe for the ſafety of the Kings Perſons, de<g ref="char:EOLhyphen"/>fence of both Houſes of Parliament, and thoſe who have obeyed their Orders and Commands, and preſerving of the true Religion the Lawes, Liberties, and Peace of the Kingdome; They will live and die with the Earle of <hi>Eſſex,</hi> whom they have nominated Generall in this cauſe.</item>
+            </list>
+         </div>
+         <div type="license">
+            <p>ORdered by the Lords and Commons aſſembled in Parliament that this be Printed and publiſhed.</p>
+            <closer>
+               <signed>Hen. Elſynge<g ref="char:punc">▪</g> Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
